@@ -1,7 +1,0 @@
-In this project we were to compare correlations between Selection Intensity (SI), Selection Variance (SV), Selection Pressure (SP), and Q value with regard to different selection methods among colonies. The considered selection methods are:
-1. Linearly Scaled Fitness Proportionate Selection with selection
-Pressure Control
-2. Linearly Scaled Rank Selection with Selection Pressures
-Control
-3. Q-Tournament Selection
-It should be noted that two different statistical sampling methods (i.e. Roulette Wheel (RW) and Stochastic Universal Sampling (SUS)) were applied for the first two selection approaches mentioned above and only SUS method for the third one.
