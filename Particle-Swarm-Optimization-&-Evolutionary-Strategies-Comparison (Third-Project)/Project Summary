@@ -1,0 +1,4 @@
+In this project we were to evaluate and compare costs of two algorithms of 'Particle Swarm Optimization' 
+(PSO) and 'Evolutionary Strategies' (ES(1+1)) versus both number of iterations and evaluations.
+It should be noted that multiple ES(1+1) method with different 'Optimal Ps' values were considered 
+for the comparison with PSO method.
